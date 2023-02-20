@@ -19,16 +19,19 @@ body {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #bff365;
   font-size: 16pt;
   line-height: 2.5rem;
 }
+
 #app {
   padding-bottom: 1.5rem;
 }
+
 pre {
   padding: 0 !important;
 }
+
 h1,
 h2,
 h3,
